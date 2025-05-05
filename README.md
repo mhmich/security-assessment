@@ -2,9 +2,11 @@
 
 This is a security assessment for a mock business. Cedar Grove Family Health is a family medicine clinic offering adult care, pediatric medicine, women's health and prenatal services, basic lab testing and vaccinations, and telehealth appointments. The clinic has 24 employees and around 3000 active patients.
 
+
 **Security Framework:** We will be assessing against CIS Controls Version 8, Implementation Group 1.
 
 **Assessment:** Find the assessment spreadsheet at https://github.com/mhmich/security-assessment/blob/main/Assessment%20Mapped%20to%20CIS%20Controls.pdf
+
 
 ### High-level system architecture:
 **1.	Electronic Medical Record (EMR) System**
