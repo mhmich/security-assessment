@@ -4,6 +4,8 @@ This is a security assessment for a mock business. Cedar Grove Family Health is 
 
 **Security Framework:** We will be assessing against CIS Controls Version 8, Implementation Group 1.
 
+**Assessment:** Find the assessment spreadsheet at https://github.com/mhmich/security-assessment/blob/main/Assessment%20Mapped%20to%20CIS%20Controls.pdf
+
 ### High-level system architecture:
 **1.	Electronic Medical Record (EMR) System**
 * Hosted in the cloud (e.g., AWS or Azure)
